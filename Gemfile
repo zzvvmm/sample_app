@@ -6,12 +6,15 @@ git_source(:github) do |repo_name|
 end
 
 gem "bcrypt", "3.1.12"
+gem "bootstrap-kaminari-views"
 gem "bootstrap-sass", "3.3.7"
 gem "coffee-rails", "~> 4.2"
 gem "config"
+gem "faker", "~> 1.9", ">= 1.9.1"
 gem "i18n"
 gem "jbuilder", "~> 2.5"
 gem "jquery-rails"
+gem "kaminari"
 gem "puma", "~> 3.7"
 gem "rails", "~> 5.1.6"
 gem "rubocop", "~> 0.54.0", require: false

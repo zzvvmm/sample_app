@@ -27,7 +27,7 @@ class User < ApplicationRecord
   end
 
   def remember
-    @remember_token = User.new_token
+    self.remember_token = User.new_token
     update_attributes remember_digest: User.digest(remember_token)
   end
 
@@ -38,6 +38,10 @@ class User < ApplicationRecord
 
   def forget
     update_attributes remember_digest: nil
+  end
+
+  def current_user? current_user
+    self == current_user
   end
 
   private
