@@ -6,8 +6,9 @@ class UsersController < ApplicationController
   def create
     @user = User.new user_params
     if @user.save
+      log_in @user
       flash[:success] = t("flash_success")
-      redirect_to user_path @user
+      redirect_to @user
     else
       render :new
     end
@@ -17,7 +18,7 @@ class UsersController < ApplicationController
     @user = User.find_by id: params[:id]
 
     return if @user
-    flash[:fail] = t("flash_fail")
+    flash[:warning] = t("flash_fail")
     redirect_to root_path
   end
 
