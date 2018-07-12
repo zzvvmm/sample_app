@@ -7,3 +7,7 @@ vi:
   contact: "Liên hệ"
   signup: "Đăng ký"
   login: "Đăng nhập"
+  flash_success: "Chào mừng bạn!"
+  flash_fail: "Không tìm thấy người dùng"
+  confirm: "Xác nhận mật khẩu"
+  submit_reg: "Đăng ký tài khoản"

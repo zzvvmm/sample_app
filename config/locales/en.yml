@@ -7,3 +7,7 @@ en:
   contact: "Contact"
   signup: "Sign up"
   login: "Log in"
+  flash_success: "Welcome to the Sample App!"
+  flash_fail: "User not found!"
+  confirm: "Confirmation"
+  submit_reg: "Create my account"
