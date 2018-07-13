@@ -1,4 +1,6 @@
 name_max: 50
 email_max: 255
 pass_min: 6
-avatar_size: 80
+default_avatar_size: 80
+user_avatar_size: 50
+users_per_page: 5
