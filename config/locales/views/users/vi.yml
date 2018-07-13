@@ -1,0 +1,26 @@
+vi:
+  all_users: "Tất cả người dùng"
+  edit_user: "Chỉnh sửa thông tin"
+  users: "Người dùng"
+  profile: "Hồ sơ"
+  settings: "Cài đặt"
+  name: "Họ tên"
+  email: "Email"
+  password: "Mật khẩu"
+  confirmation: "Xác nhận mật khẩu"
+  submit_signup: "Tạo tài khoản"
+  submit_change: "Lưu thay đổi"
+  account: "Tài khoản"
+  new_user: "Người dùng mới"
+  remember_me: "Lưu người dùng trên máy này?"
+  h1_update_profile: "Cập nhật hồ sơ của bạn"
+  change: "Thay đổi"
+  confirm: "Bạn chắc chứ?"
+  views:
+    pagination:
+      first: "&laquo; Đầu"
+      last: "Cuối &raquo;"
+      previous: "&lsaquo; Trước"
+      next: "Sau &rsaquo;"
+      truncate: "&hellip;"
+

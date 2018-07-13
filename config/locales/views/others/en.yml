@@ -1,0 +1,4 @@
+en:
+  mailer:
+    welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
+    active: "Active"

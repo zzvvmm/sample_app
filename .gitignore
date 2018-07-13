@@ -23,3 +23,6 @@
 .byebug_history
 /config/database.yml
 /config/master.key
+
+# Ignore application configuration
+/config/application.yml

@@ -1,0 +1,4 @@
+vi:
+  mailer:
+    active_subject: "Account activation"
+    password_reset: "Hi. Password reset confirm"

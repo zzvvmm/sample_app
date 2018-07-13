@@ -1,0 +1,13 @@
+en:
+  flash:
+    success: "Welcome to the Sample App!"
+    fail: "User not found!"
+    invalid: "Invalid email/password combination"
+    update_success: "Profile updated!"
+    not_login: "Please log in!"
+    delete_success: "User deleted!"
+    delete_fail: "Cannot delete!"
+    check_email: "Please check your email to activate your account."
+    active_success: "Account activated!"
+    active_fail: "Invalid activation link"
+    not_active: "Account not activated. Check your email for the activation link."

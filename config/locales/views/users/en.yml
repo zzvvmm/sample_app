@@ -1,0 +1,28 @@
+en:
+  all_users: "All Users"
+  edit_user: "Edit user"
+  users: "Users"
+  profile: "Profile"
+  settings: "Settings"
+  name: "Name"
+  email: "Email"
+  password: "Password"
+  confirmation: "Confirmation"
+  submit_signup: "Create my account"
+  submit_change: "Submit change"
+  account: "Account"
+  new_user: "New User"
+  remember_me: "Remember me on this computer?"
+  h1_update_profile: "Update your profile"
+  change: "Change"
+  confirm: "You sure?"
+  views:
+    pagination:
+      first: "&laquo; First"
+      last: "Last &raquo;"
+      previous: "&lsaquo; Prev"
+      next: "Next &rsaquo;"
+      truncate: "&hellip;"
+
+
+
