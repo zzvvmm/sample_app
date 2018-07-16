@@ -1,0 +1,13 @@
+vi:
+  flash:
+    success: "Chào mừng bạn!"
+    fail: "Không tìm thấy ngưòi dùng!"
+    invalid: "Sai tên đăng nhập hoặc mật khẩu!"
+    update_success: "Hồ sơ đã đưọc cập nhật!"
+    not_login: "Bạn chưa đăng nhập!"
+    delete_success: "Người dùng đã được xóa!"
+    delete_fail: "Không thể xóa!"
+    check_email: "Vui lòng kiểm tra mail để kích hoạt tài khoản!"
+    active_success: "Chúc mừng! Tài khoản của bạn đã đưọc kích hoạt"
+    active_fail: "Đường đẫn không hợp lệ!"
+    not_active: "Tài khoản chưa đưọc kích hoạt. Vui lòng kiểm tra lại mail."
