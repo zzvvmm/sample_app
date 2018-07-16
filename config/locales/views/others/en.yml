@@ -2,3 +2,7 @@ en:
   mailer:
     welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
     active: "Active"
+    reset_password: "Reset password"
+    reset_instruction: "To reset your password click the link below:"
+    expire_instruction: "This link will expire in two hours."
+    ignore_instruction: "If you did not request your password to be reset, please ignore this email and your password will stay as it is."

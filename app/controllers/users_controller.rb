@@ -6,7 +6,7 @@ class UsersController < ApplicationController
 
   def index
     @users = User.users_activated.page(params[:page])
-      .per Settings.users_per_page
+                 .per Settings.users_per_page
   end
 
   def new

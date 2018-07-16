@@ -8,8 +8,10 @@ vi:
   email: "Email"
   password: "Mật khẩu"
   confirmation: "Xác nhận mật khẩu"
+  submit: "Xác nhận"
   submit_signup: "Tạo tài khoản"
   submit_change: "Lưu thay đổi"
+  submit_password: "Thay đổi mật khẩu"
   account: "Tài khoản"
   new_user: "Người dùng mới"
   remember_me: "Lưu người dùng trên máy này?"
@@ -23,4 +25,5 @@ vi:
       previous: "&lsaquo; Trước"
       next: "Sau &rsaquo;"
       truncate: "&hellip;"
-
+  forgot_password: "Quên mật khẩu"
+  reset_password: "Cài lại mật khẩu"
