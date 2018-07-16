@@ -1,4 +1,4 @@
 vi:
   mailer:
-    active_subject: "Account activation"
-    password_reset: "Hi. Password reset confirm"
+    active_subject: "Kích hoạt tài khoản"
+    reset_subject: "Cài đặt lại mật khẩu"

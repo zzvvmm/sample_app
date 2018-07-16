@@ -4,3 +4,4 @@ pass_min: 6
 default_avatar_size: 80
 user_avatar_size: 50
 users_per_page: 5
+expire_time: 2

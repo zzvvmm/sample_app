@@ -8,8 +8,10 @@ en:
   email: "Email"
   password: "Password"
   confirmation: "Confirmation"
+  submit: "Submit"
   submit_signup: "Create my account"
   submit_change: "Submit change"
+  submit_password: "Change password"
   account: "Account"
   new_user: "New User"
   remember_me: "Remember me on this computer?"
@@ -23,6 +25,5 @@ en:
       previous: "&lsaquo; Prev"
       next: "Next &rsaquo;"
       truncate: "&hellip;"
-
-
-
+  forgot_password: "Forgot password"
+  reset_password: "Reset password"

@@ -11,3 +11,9 @@ en:
     active_success: "Account activated!"
     active_fail: "Invalid activation link"
     not_active: "Account not activated. Check your email for the activation link."
+    password_reset: "Email sent with password reset instructions"
+    email_not_found: "Email address not found"
+    reset_success: "Password has been reset."
+    reset_expired: "Password reset has expired."
+  error:
+    empty_password: "Password can't be empty"

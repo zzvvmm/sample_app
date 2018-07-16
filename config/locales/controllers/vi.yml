@@ -11,3 +11,9 @@ vi:
     active_success: "Chúc mừng! Tài khoản của bạn đã đưọc kích hoạt"
     active_fail: "Đường đẫn không hợp lệ!"
     not_active: "Tài khoản chưa đưọc kích hoạt. Vui lòng kiểm tra lại mail."
+    password_reset: "Kiểm tra email và làm theo hướng dẫn để cài lại mật khẩu"
+    email_not_found: "Không tìm thấy địa chỉ email!"
+    reset_success: "Mật khẩu đã được cài lại."
+    reset_expired: "Link cài lại mật khẩu đã hết hạn!"
+  error:
+    empty_password: "Bạn chưa nhập mật khẩu!"
