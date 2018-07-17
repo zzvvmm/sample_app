@@ -8,3 +8,4 @@ expire_time: 2
 picture_size_max: 5
 micropost_max: 140
 sentence_length: 10
+follow_avatar_size: 30

@@ -27,3 +27,8 @@ en:
       truncate: "&hellip;"
   forgot_password: "Forgot password"
   reset_password: "Reset password"
+  view_profile: "View my profile"
+  follow: "Follow"
+  unfollow: "Unfollow"
+  following: "following"
+  followers: "followers"

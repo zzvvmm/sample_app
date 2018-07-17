@@ -2,3 +2,5 @@ vi:
   mailer:
     active_subject: "Kích hoạt tài khoản"
     reset_subject: "Cài đặt lại mật khẩu"
+  js:
+    file_too_big: "File quá lớn. Vui lòng chọn lại file khác."

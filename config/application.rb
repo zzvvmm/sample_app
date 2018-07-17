@@ -19,5 +19,6 @@ module SampleApp
     I18n.default_locale = :vi
     config.generators.system_tests = nil
     config.i18n.load_path += Dir["#{Rails.root.to_s}/config/locales/**/*.{rb,yml}"]
+    config.action_view.embed_authenticity_token_in_remote_forms = true
   end
 end

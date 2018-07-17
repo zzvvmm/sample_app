@@ -2,3 +2,5 @@ en:
   mailer:
     active_subject: "Account activation"
     reset_subject: "Password reset"
+  js:
+    file_too_big: "Maximum file size is 5MB. Please choose a smaller file."

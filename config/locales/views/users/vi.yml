@@ -27,3 +27,8 @@ vi:
       truncate: "&hellip;"
   forgot_password: "Quên mật khẩu"
   reset_password: "Cài lại mật khẩu"
+  view_profile: "Xem trang cá nhân"
+  follow: "Theo dõi"
+  unfollow: "Bỏ theo dõi"
+  following: "đang theo dõi"
+  followers: "người theo dõi"
