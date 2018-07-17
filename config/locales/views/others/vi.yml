@@ -199,5 +199,3 @@ vi:
     reset_instruction: "Click vào link sau để cài lại mật khẩu:"
     expire_instruction: "Link sẽ tự động hết hạn sau 2 giờ."
     ignore_instruction: "Nếu bạn không muốn thay đổi mật khẩu hãy bỏ qua email này và mật khẩu của bạn sẽ được gĩư nguyên."
-  shared:
-    view_profile: "Xem trang cá nhân"

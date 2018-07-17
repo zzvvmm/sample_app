@@ -1,0 +1,7 @@
+fallbacks: :default_locale
+
+translations:
+- file: 'public/javascripts/en.js'
+  only: 'en.*'
+- file: 'public/javascripts/vi.js'
+  only: 'vi.*'
