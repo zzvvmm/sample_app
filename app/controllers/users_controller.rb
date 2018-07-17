@@ -26,6 +26,7 @@ class UsersController < ApplicationController
 
   def show
     redirect_to root_url && return unless @user
+    @microposts = @user.microposts.page params[:page]
   end
 
   def edit; end
@@ -60,13 +61,6 @@ class UsersController < ApplicationController
     return if @user
     flash[:warning] = t "flash.fail"
     redirect_to root_path
-  end
-
-  def logged_in_user
-    return if logged_in?
-    store_location
-    flash[:danger] = t "flash.not_login"
-    redirect_to login_url
   end
 
   def correct_user

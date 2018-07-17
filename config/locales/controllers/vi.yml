@@ -15,5 +15,8 @@ vi:
     email_not_found: "Không tìm thấy địa chỉ email!"
     reset_success: "Mật khẩu đã được cài lại."
     reset_expired: "Link cài lại mật khẩu đã hết hạn!"
+    micropost_create_success: "Bài đăng đã đưọc tạo thành công"
+    micropost_delete_success: "Xóa bài đăng thành công"
+    micropost_delete_fail: "Không thể xóa bài đăng!"
   error:
     empty_password: "Bạn chưa nhập mật khẩu!"

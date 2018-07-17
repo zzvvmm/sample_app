@@ -15,5 +15,8 @@ en:
     email_not_found: "Email address not found"
     reset_success: "Password has been reset."
     reset_expired: "Password reset has expired."
+    micropost_create_success: "Micropost created!"
+    micropost_delete_success: "Micropost deleted!"
+    micropost_delete_fail: "Cannot delete the micropost!"
   error:
     empty_password: "Password can't be empty"
