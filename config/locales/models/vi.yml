@@ -1,0 +1,9 @@
+vi:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "Có các lỗi sau: %{errors}"
+        restrict_dependent_destroy:
+          has_one: "Không thể xóa do tồn tại đối tượng phụ thuộc %{record}"
+          has_many: "Không thể xóa do tồn tại một số đối tượng phụ thuộc %{record}"
+        file_too_big: "chỉ chấp nhận dưới 5MB"
